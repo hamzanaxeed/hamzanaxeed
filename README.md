@@ -46,24 +46,25 @@ I'm a Computer Science student and software developer focused on building practi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+
 ---
 
-## 📊 GitHub Statistics
+### 📊 GitHub Stats
 
-### Contribution Overview
-
-<!-- YEARLY-STATS:START -->
 <p align="center">
-  <img src="./assets/yearly-stats.svg" alt="GitHub Contributions, Commits, Pull Requests, Issues and Streak Statistics" width="760" />
+  <img src="./assets/yearly-stats.svg" alt="Current Year GitHub Contributions and Commits" width="720" />
 </p>
-<!-- YEARLY-STATS:END -->
 
-*Automatically updated daily using the GitHub GraphQL API.*
-
-### Most Used Languages
+### 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamzanaxeed&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamzanaxeed&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/hamzanaxeed?tab=overview">
+    View my complete GitHub contribution activity
+  </a>
 </p>
 
 ---
