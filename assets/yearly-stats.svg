@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="190" viewBox="0 0 720 190">
+  <rect width="720" height="190" rx="12" fill="#0d1117"/>
+  <text x="28" y="38" fill="#ffffff" font-family="Arial, sans-serif" font-size="20" font-weight="bold">GitHub Activity — 2026</text>
+  <text x="28" y="62" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">January 1 – November 06, 2026</text>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="24" y="82" width="210" height="82" rx="9" fill="#161b22"/>
+    <text x="42" y="112" fill="#8b949e" font-size="12">TOTAL CONTRIBUTIONS</text>
+    <text x="42" y="145" fill="#3fb950" font-size="29" font-weight="bold">772</text>
+
+    <rect x="246" y="82" width="210" height="82" rx="9" fill="#161b22"/>
+    <text x="264" y="112" fill="#8b949e" font-size="12">COMMITS</text>
+    <text x="264" y="145" fill="#58a6ff" font-size="29" font-weight="bold">342</text>
+
+    <rect x="468" y="82" width="228" height="82" rx="9" fill="#161b22"/>
+    <text x="486" y="112" fill="#8b949e" font-size="12">PULL REQUESTS</text>
+    <text x="486" y="145" fill="#d2a8ff" font-size="29" font-weight="bold">8</text>
+  </g>
+
+  <text x="28" y="182" fill="#8b949e" font-family="Arial, sans-serif" font-size="10">Issues opened: 0  •  PR reviews: 0  •  Source: GitHub GraphQL API</text>
+</svg>
