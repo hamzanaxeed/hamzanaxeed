@@ -1,8 +1,9 @@
+
 # Hi, I'm Hamza Naveed 👋
 
 ### Software Engineer | Flutter Developer | AI/ML Enthusiast
 
-I’m a Computer Science student and software developer focused on building practical, scalable applications. I work primarily with **Flutter, C++, Python, and backend technologies**, with experience developing cross-platform mobile applications, REST APIs, real-time systems, and AI-powered features.
+I'm a Computer Science student and software developer focused on building practical, scalable applications. I work primarily with **Flutter, C++, Python, and backend technologies**, with experience developing cross-platform mobile applications, REST APIs, real-time systems, and AI-powered features.
 
 - 🔭 Working on mobile applications and AI-powered projects
 - 🌱 Exploring Machine Learning, NLP, LLMs, and AI agents
@@ -49,17 +50,21 @@ I’m a Computer Science student and software developer focused on building prac
 
 ## 📊 GitHub Statistics
 
-### Contributions This Year
+### Contribution Overview
 
 <!-- YEARLY-STATS:START -->
-![GitHub Yearly Contributions](./assets/yearly-stats.svg)
+<p align="center">
+  <img src="./assets/yearly-stats.svg" alt="GitHub Contributions, Commits, Pull Requests, Issues and Streak Statistics" width="760" />
+</p>
 <!-- YEARLY-STATS:END -->
 
-*Automatically updated daily using the GitHub GraphQL API. Includes the current calendar year's contribution and commit counts.*
+*Automatically updated daily using the GitHub GraphQL API.*
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=hamzanaxeed&theme=dark&hide_border=true&layout=compact&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamzanaxeed&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
+</p>
 
 ---
 
